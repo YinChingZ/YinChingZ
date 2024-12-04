@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
+This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile (which is here :).
 
-Here are some ideas to get you started:
+Here are some ideas to get you to know me:
 
 - 🔭 I’m currently working on learning Java and attend for Advanced Placement Test of Computer Science A and Computer Science Principle
 - 🌱 I’m currently learning C++ and Unity Game Development!
